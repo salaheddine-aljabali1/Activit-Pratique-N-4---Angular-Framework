@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODkvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiQW1hcmkiLCJsYXN0bmFtZSI6Ik5vYW1hbiIsImVtYWlsIjoiYW1AZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.jbB2DlTAaB93I8y7JKJAzjAsACkRNOo_tFerBn47C9U"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODkvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiQW1hcmkiLCJsYXN0bmFtZSI6Ik5vYW1hbiIsImVtYWlsIjoiYW1AZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.jLbx5BEzfnF5Ykbuhpb3WOMR5koGve1yIm-_A5MKdOI"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODkvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiQW1hcmkiLCJsYXN0bmFtZSI6Ik5vYW1hbiIsImVtYWlsIjoiYW1AZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.0J5qLLtRB0S_UWm_7GbYUzY4dztnwqrrkvjUVLl_yRs"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Compu",
+      "price": 5600,
+      "checked": false
+    },
+    {
+      "id": "3",
+      "name": "Computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "name": "mmmmm",
+      "price": "5400",
+      "checked": true,
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "azzee",
+      "price": "789654",
+      "checked": true
+    },
+    {
+      "id": "9",
+      "name": "a",
+      "price": 0,
+      "checked": false
+    },
+    {
+      "id": "10",
+      "name": "a",
+      "price": 0,
+      "checked": false
+    },
+    {
+      "id": "11",
+      "name": "a",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "id": "12",
+      "name": "a",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "id": "13",
+      "name": "a",
+      "price": 0,
+      "checked": false
+    },
+    {
+      "id": "14",
+      "name": "a",
+      "price": 0,
+      "checked": false
+    },
+    {
+      "id": "15",
+      "name": "y",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "id": "16",
+      "name": "y",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "id": "bff5",
+      "name": "cccc",
+      "price": "1566",
+      "checked": true
+    },
+    {
+      "id": "4d37",
+      "name": "oooo",
+      "price": 0,
+      "checked": false
+    },
+    {
+      "id": "c87f",
+      "name": "computer",
+      "price": "15268",
+      "checked": true
+    }
+  ]
+}
